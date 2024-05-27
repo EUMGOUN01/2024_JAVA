@@ -1,3 +1,5 @@
+# 16-8 최근 지진
+
 import pandas as pd
 import plotly.express as px
 
